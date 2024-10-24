@@ -1,0 +1,29 @@
+.mass{
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.great{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px
+}
+
+.some{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.frank{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}

@@ -1,0 +1,23 @@
+.card{
+    
+    border-radius: 20%;
+    box-shadow: 5px;
+    width: 200px;
+    height: 250px;
+    background-color: aliceblue;
+    margin: 20px
+}
+
+.structure{
+    display: inline-block;
+    height: 450px;
+    border-radius: 10%;
+    margin: 30px;
+    background-color: aliceblue;
+}
+
+.text{
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
